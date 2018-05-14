@@ -25,7 +25,7 @@ smartypants = true
 [params]
 address = "Building 1 Room 1, Stanford University, California, 90210, USA"
 avatar = "/img/penn.png"
-color_theme = "forest"
+color_theme = "dark"
 comment_count = true
 custom_css = []
 custom_js = []
@@ -42,7 +42,7 @@ longitude = "-122.1697"
 map = "0"
 map_api_key = ""
 math = false
-name = "Aridian González Martínez"
+name = "Aridian González "
 office_hours = "Monday 10:00 to 13:00 or email for appointment"
 phone = "888 888 88 88"
 privacy_pack = false
