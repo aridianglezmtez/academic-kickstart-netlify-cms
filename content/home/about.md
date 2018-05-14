@@ -10,14 +10,8 @@ interests:
     - Actualidad
 education:
   courses:
-    - course: ML for dummies
-      institution: University of Salamanca
-      year: 2019
-    - course: Statistics
-      institution: University of Salamanca
-      year: 2019
-    - course: eeeed
-      institution: eeee
-      year: '2022'
+    - course: Grado Información y Documentación
+      institution: Universidad de Salamanca
+      year: 2015 - 2019
 ---
 Curso 2017 - 2018
