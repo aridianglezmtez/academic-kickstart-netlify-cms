@@ -5,9 +5,9 @@ date: '2018-05-08T00:00:00+02:00'
 weight: 5
 interests:
   interests:
-    - Machine Learning
-    - Comuter Science
-    - Ostias
+    - Moda
+    - Diseño
+    - Actualidad
 education:
   courses:
     - course: ML for dummies
@@ -20,4 +20,4 @@ education:
       institution: eeee
       year: '2022'
 ---
-Hello, I'm Alvaro
+Curso 2017 - 2018
