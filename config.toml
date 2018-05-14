@@ -122,11 +122,6 @@ name = "Contact"
 url = "#contact"
 weight = 7.0
 
-[[menu.main]]
-name = "Teaching"
-url = "#teaching"
-weight = "7"
-
 [taxonomies]
 category = "categories"
 publication_type = "publication_types"
